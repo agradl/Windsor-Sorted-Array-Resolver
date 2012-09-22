@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedArray.code", "sample\SortedArray.code.csproj", "{B06D97C2-657C-42D8-AA5C-872104A6E23B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedArray.sample", "code\SortedArray.sample.csproj", "{03DB3FC6-42B6-4959-9F2D-E6AF3F286018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B06D97C2-657C-42D8-AA5C-872104A6E23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06D97C2-657C-42D8-AA5C-872104A6E23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06D97C2-657C-42D8-AA5C-872104A6E23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06D97C2-657C-42D8-AA5C-872104A6E23B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03DB3FC6-42B6-4959-9F2D-E6AF3F286018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03DB3FC6-42B6-4959-9F2D-E6AF3F286018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03DB3FC6-42B6-4959-9F2D-E6AF3F286018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03DB3FC6-42B6-4959-9F2D-E6AF3F286018}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
